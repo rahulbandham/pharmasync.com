@@ -1,1 +1,1 @@
-# pharmasync.com
+# pharma-sync.com
